@@ -1,0 +1,5 @@
+Blowpipe
+
+- Ammunition is seeds:
+	- Vine seed, grow a vine and climb it.
+	- Thorn seed, block a path.
